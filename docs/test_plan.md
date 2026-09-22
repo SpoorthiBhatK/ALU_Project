@@ -1,1 +1,1 @@
-[alu_test_plan](https://mirafra2-my.sharepoint.com/:x:/g/personal/spoorthibhat_mirafra2_onmicrosoft_com/IQCuby3Bza7lTbtvl45HEPYGAbxbQZpG85B_ZOXXsGVcjno?e=OPk3TX)
+[alu_test_plan](https://docs.google.com/spreadsheets/d/1Iz0tIZy0S_7w3kybzRxcDq19PWnc8pQg/edit?usp=drive_link&ouid=116201154343596799378&rtpof=true&sd=true)
